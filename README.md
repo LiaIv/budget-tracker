@@ -1,4 +1,4 @@
-# 🚀 Budget Tracker CLI
+# Budget Tracker CLI
 
 Консольное приложение на TypeScript для учёта личных финансов
 
