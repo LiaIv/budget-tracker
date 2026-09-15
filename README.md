@@ -14,17 +14,17 @@
 
 ```bash
 npm install
-npm run build   # компиляция src/ → dist/
-npm start       # запуск dist/index.js
-npm run dev     # пересборка при изменениях
+npm run build
+npm start
+npm run dev
 ```
 
 ## Структура
 
 ```
 budget-tracker-cli/
-├── src/index.ts    # точка входа
-├── dist/           # скомпилированный JS (не в git)
+├── src/index.ts 
+├── dist/ 
 ├── package.json
 └── tsconfig.json
 ```
